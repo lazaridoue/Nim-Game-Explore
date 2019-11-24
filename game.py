@@ -1,3 +1,4 @@
+#Nim Game -May Jue -Eleni Lazaridou
 from tkinter import *
 import tkinter.messagebox
 import random
